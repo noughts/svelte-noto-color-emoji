@@ -1,10 +1,10 @@
 <script lang="ts">
-    import ColorEmoji from "$lib/ColorEmoji.svelte";
+    import NotoEmoji from "$lib/NotoEmoji.svelte";
 </script>
 
 <h1>Welcome to your library project</h1>
 <p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
 <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 
-<ColorEmoji emoji="📅" size="22px" />
-<ColorEmoji emoji="🥹" size="44px" />
+<NotoEmoji emoji="📅" size="22px" />
+<NotoEmoji emoji="🥹" size="44px" />
